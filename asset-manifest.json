@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reactdem/static/css/main.720fe4d1.css",
-    "main.js": "/reactdem/static/js/main.5622da35.js",
-    "static/js/787.3dde96f7.chunk.js": "/reactdem/static/js/787.3dde96f7.chunk.js",
-    "index.html": "/reactdem/index.html",
-    "main.720fe4d1.css.map": "/reactdem/static/css/main.720fe4d1.css.map",
-    "main.5622da35.js.map": "/reactdem/static/js/main.5622da35.js.map",
-    "787.3dde96f7.chunk.js.map": "/reactdem/static/js/787.3dde96f7.chunk.js.map"
+    "main.css": "/LGMVIP-Web-task-2/static/css/main.720fe4d1.css",
+    "main.js": "/LGMVIP-Web-task-2/static/js/main.b4466274.js",
+    "static/js/787.3dde96f7.chunk.js": "/LGMVIP-Web-task-2/static/js/787.3dde96f7.chunk.js",
+    "index.html": "/LGMVIP-Web-task-2/index.html",
+    "main.720fe4d1.css.map": "/LGMVIP-Web-task-2/static/css/main.720fe4d1.css.map",
+    "main.b4466274.js.map": "/LGMVIP-Web-task-2/static/js/main.b4466274.js.map",
+    "787.3dde96f7.chunk.js.map": "/LGMVIP-Web-task-2/static/js/787.3dde96f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.720fe4d1.css",
-    "static/js/main.5622da35.js"
+    "static/js/main.b4466274.js"
   ]
 }
